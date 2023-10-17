@@ -1,0 +1,15 @@
+C:\Users\D111-PC2\Desktop\re\ter\bin\Debug\net6.0\ter.exe
+C:\Users\D111-PC2\Desktop\re\ter\bin\Debug\net6.0\ter.deps.json
+C:\Users\D111-PC2\Desktop\re\ter\bin\Debug\net6.0\ter.runtimeconfig.json
+C:\Users\D111-PC2\Desktop\re\ter\bin\Debug\net6.0\ter.dll
+C:\Users\D111-PC2\Desktop\re\ter\bin\Debug\net6.0\ter.pdb
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.csproj.AssemblyReference.cache
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.AssemblyInfoInputs.cache
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.AssemblyInfo.cs
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.csproj.CoreCompileInputs.cache
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.dll
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\refint\ter.dll
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.pdb
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ter.genruntimeconfig.cache
+C:\Users\D111-PC2\Desktop\re\ter\obj\Debug\net6.0\ref\ter.dll
